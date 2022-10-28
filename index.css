@@ -226,7 +226,7 @@
 @media screen and (min-width: 850px) {
     .container {
         width: 1100px;
-        height: 345px;
+        height: 335px;
         position: relative;
         display: flex;
         flex-direction: row;
