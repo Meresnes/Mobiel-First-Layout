@@ -7,7 +7,7 @@
 @media screen and (max-width: 849px) {
     .container {
         width: 350px;
-        height: 610px;
+        height: 605px;
         border: 0.3px solid #828282;
         border-radius: 16px;
         margin-top: 2rem;
@@ -226,7 +226,7 @@
 @media screen and (min-width: 850px) {
     .container {
         width: 1100px;
-        height: 365px;
+        height: 370px;
         position: relative;
         display: flex;
         flex-direction: row;
