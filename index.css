@@ -16,6 +16,9 @@
         margin-top: 2rem;
         box-sizing: border-box;
         overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
 
     }
 
